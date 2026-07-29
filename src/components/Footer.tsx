@@ -71,6 +71,14 @@ export default function Footer() {
                   info@edmocleaning.com
                 </a>
               </li>
+              <li>
+                <a
+                  href="mailto:edmocleaning@gmail.com"
+                  className="hover:text-brand-green"
+                >
+                  edmocleaning@gmail.com
+                </a>
+              </li>
               <li>San Diego, CA</li>
             </ul>
           </div>
