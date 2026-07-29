@@ -65,14 +65,6 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="mailto:info@edmocleaning.com"
-                  className="hover:text-brand-green"
-                >
-                  info@edmocleaning.com
-                </a>
-              </li>
-              <li>
-                <a
                   href="mailto:edmocleaning@gmail.com"
                   className="hover:text-brand-green"
                 >
